@@ -5,9 +5,9 @@ page-layout: full
 
 ::::: hero-portada
 ::: hero-texto
-# Nombre Apellido
+# Héctor Zumbado Ulate
 
-## Estudiante de Bachillerato en Biología
+## Profesor
 
 Escuela de Ciencias Biológicas\
 Universidad Nacional, Costa Rica
@@ -59,15 +59,12 @@ Registro de las prácticas, proyectos y productos desarrollados durante el semes
 
 Este portafolio fue desarrollado con herramientas de ciencia reproducible.
 
-::: {.logos-portada}
+::: logos-portada
+![](images/logo-una.png){width="150"}
 
-![](images/logo-una.png){width=150}
+![](images/logo-github.png){width="70"}
 
-![](images/logo-github.png){width=70}
-
-![](images/logo-quarto.png){width=70}
-
+![](images/logo-quarto.png){width="70"}
 :::
 
-
-**Última actualización:** Agosto 2026
+**Última actualización:** 4 de Agosto 2026

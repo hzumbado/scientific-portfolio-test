@@ -2,49 +2,49 @@
   {
     "objectID": "práctica-ejemplo.html",
     "href": "práctica-ejemplo.html",
-    "title": "Práctica (ejemplo)",
+    "title": "Práctica 1. Creación de sitio web",
     "section": "",
     "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
   },
   {
     "objectID": "práctica-ejemplo.html#objetivo",
     "href": "práctica-ejemplo.html#objetivo",
-    "title": "Práctica (ejemplo)",
+    "title": "Práctica 1. Creación de sitio web",
     "section": "",
     "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
   },
   {
     "objectID": "práctica-ejemplo.html#materiales-y-herramientas",
     "href": "práctica-ejemplo.html#materiales-y-herramientas",
-    "title": "Práctica (ejemplo)",
+    "title": "Práctica 1. Creación de sitio web",
     "section": "Materiales y herramientas",
     "text": "Materiales y herramientas\n\nRStudio\nQuarto\nGit\nGitHub"
   },
   {
     "objectID": "práctica-ejemplo.html#procedimiento",
     "href": "práctica-ejemplo.html#procedimiento",
-    "title": "Práctica (ejemplo)",
+    "title": "Práctica 1. Creación de sitio web",
     "section": "Procedimiento",
     "text": "Procedimiento\nExplique de forma ordenada los pasos realizados durante la práctica."
   },
   {
     "objectID": "práctica-ejemplo.html#resultados",
     "href": "práctica-ejemplo.html#resultados",
-    "title": "Práctica (ejemplo)",
+    "title": "Práctica 1. Creación de sitio web",
     "section": "Resultados",
     "text": "Resultados\nIncluya aquí los principales resultados obtenidos."
   },
   {
     "objectID": "práctica-ejemplo.html#figuras-y-tablas",
     "href": "práctica-ejemplo.html#figuras-y-tablas",
-    "title": "Práctica (ejemplo)",
+    "title": "Práctica 1. Creación de sitio web",
     "section": "Figuras y tablas",
     "text": "Figuras y tablas\nAgregue las figuras, tablas o capturas de pantalla necesarias para documentar el trabajo."
   },
   {
     "objectID": "práctica-ejemplo.html#reflexión-final",
     "href": "práctica-ejemplo.html#reflexión-final",
-    "title": "Práctica (ejemplo)",
+    "title": "Práctica 1. Creación de sitio web",
     "section": "Reflexión final",
     "text": "Reflexión final\nResponda brevemente:\n\n¿Qué aprendí?\n¿Qué dificultad encontré?\n¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?"
   },
@@ -56,8 +56,8 @@
     "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
   },
   {
-    "objectID": "index.html#estudiante-de-bachillerato-en-biología",
-    "href": "index.html#estudiante-de-bachillerato-en-biología",
+    "objectID": "index.html#profesor",
+    "href": "index.html#profesor",
     "title": "Inicio",
     "section": "",
     "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
@@ -81,7 +81,7 @@
     "href": "index.html#herramientas-y-afiliación",
     "title": "Inicio",
     "section": "Herramientas y afiliación",
-    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: Agosto 2026"
+    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 4 de Agosto 2026"
   },
   {
     "objectID": "about.html",
@@ -91,8 +91,8 @@
     "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
   },
   {
-    "objectID": "about.html#estudiante-de-bachillerato-en-biología",
-    "href": "about.html#estudiante-de-bachillerato-en-biología",
+    "objectID": "about.html#profesor",
+    "href": "about.html#profesor",
     "title": "Perfil",
     "section": "",
     "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"

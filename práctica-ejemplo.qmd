@@ -1,5 +1,5 @@
 ---
-title: "Práctica (ejemplo)"
+title: "Práctica 1. Creación de sitio web"
 format: html
 editor: visual
 ---

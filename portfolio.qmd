@@ -1,0 +1,43 @@
+---
+title: "Portafolio académico"
+format: html
+editor: visual
+---
+
+En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso **Ecología de Poblaciones y Comunidades**.
+
+Cada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional.
+
+------------------------------------------------------------------------
+
+## Prácticas de laboratorio
+
+::: portfolio-item
+### 📄 Práctica de ejemplo
+
+Introducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.
+
+[Ver práctica →](práctica-ejemplo.qmd)
+:::
+
+::: portfolio-item
+### 📚 Gestión de referencias bibliográficas con Zotero
+
+*Disponible próximamente.*
+
+En esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.
+:::
+
+::: portfolio-item
+### 📊 Próximas prácticas
+
+Las siguientes prácticas y proyectos se incorporarán conforme avance el curso.
+:::
+
+------------------------------------------------------------------------
+
+## Objetivo del portafolio
+
+Más que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.
+
+Al finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica.

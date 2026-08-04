@@ -1,0 +1,36 @@
+---
+title: "Práctica (ejemplo)"
+format: html
+editor: visual
+---
+
+## Objetivo
+
+Describa brevemente qué se pretende aprender o realizar en la práctica.
+
+## Materiales y herramientas
+
+- RStudio
+- Quarto
+- Git
+- GitHub
+
+## Procedimiento
+
+Explique de forma ordenada los pasos realizados durante la práctica.
+
+## Resultados
+
+Incluya aquí los principales resultados obtenidos.
+
+## Figuras y tablas
+
+Agregue las figuras, tablas o capturas de pantalla necesarias para documentar el trabajo.
+
+## Reflexión final
+
+Responda brevemente:
+
+- ¿Qué aprendí?
+- ¿Qué dificultad encontré?
+- ¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?

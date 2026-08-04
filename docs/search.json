@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "práctica-ejemplo.html",
+    "href": "práctica-ejemplo.html",
+    "title": "Práctica (ejemplo)",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#objetivo",
+    "href": "práctica-ejemplo.html#objetivo",
+    "title": "Práctica (ejemplo)",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#materiales-y-herramientas",
+    "href": "práctica-ejemplo.html#materiales-y-herramientas",
+    "title": "Práctica (ejemplo)",
+    "section": "Materiales y herramientas",
+    "text": "Materiales y herramientas\n\nRStudio\nQuarto\nGit\nGitHub"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#procedimiento",
+    "href": "práctica-ejemplo.html#procedimiento",
+    "title": "Práctica (ejemplo)",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nExplique de forma ordenada los pasos realizados durante la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#resultados",
+    "href": "práctica-ejemplo.html#resultados",
+    "title": "Práctica (ejemplo)",
+    "section": "Resultados",
+    "text": "Resultados\nIncluya aquí los principales resultados obtenidos."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#figuras-y-tablas",
+    "href": "práctica-ejemplo.html#figuras-y-tablas",
+    "title": "Práctica (ejemplo)",
+    "section": "Figuras y tablas",
+    "text": "Figuras y tablas\nAgregue las figuras, tablas o capturas de pantalla necesarias para documentar el trabajo."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#reflexión-final",
+    "href": "práctica-ejemplo.html#reflexión-final",
+    "title": "Práctica (ejemplo)",
+    "section": "Reflexión final",
+    "text": "Reflexión final\nResponda brevemente:\n\n¿Qué aprendí?\n¿Qué dificultad encontré?\n¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
+  },
+  {
+    "objectID": "index.html#estudiante-de-bachillerato-en-biología",
+    "href": "index.html#estudiante-de-bachillerato-en-biología",
+    "title": "Inicio",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
+  },
+  {
+    "objectID": "index.html#bienvenidoa",
+    "href": "index.html#bienvenidoa",
+    "title": "Inicio",
+    "section": "Bienvenido(a)",
+    "text": "Bienvenido(a)\nEste sitio web constituye mi portafolio digital académico, donde documentaré las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nEste portafolio utiliza herramientas de ciencia reproducible como R, Quarto, Git y GitHub, permitiendo organizar y compartir mi trabajo de manera profesional."
+  },
+  {
+    "objectID": "index.html#contenido-del-sitio",
+    "href": "index.html#contenido-del-sitio",
+    "title": "Inicio",
+    "section": "Contenido del sitio",
+    "text": "Contenido del sitio\n\n\nPerfil\nInformación personal, intereses académicos y experiencia.\nIr al perfil →\n\n\nPortafolio\nRegistro de las prácticas, proyectos y productos desarrollados durante el semestre.\nVer el portafolio →\n\n\n\n\nLa ciencia solo adquiere valor cuando puede ser comunicada y reproducida."
+  },
+  {
+    "objectID": "index.html#herramientas-y-afiliación",
+    "href": "index.html#herramientas-y-afiliación",
+    "title": "Inicio",
+    "section": "Herramientas y afiliación",
+    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: Agosto 2026"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
+  },
+  {
+    "objectID": "about.html#estudiante-de-bachillerato-en-biología",
+    "href": "about.html#estudiante-de-bachillerato-en-biología",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
+  },
+  {
+    "objectID": "about.html#biografía",
+    "href": "about.html#biografía",
+    "title": "Perfil",
+    "section": "Biografía",
+    "text": "Biografía\nEscriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales."
+  },
+  {
+    "objectID": "about.html#áreas-de-interés",
+    "href": "about.html#áreas-de-interés",
+    "title": "Perfil",
+    "section": "Áreas de interés",
+    "text": "Áreas de interés\n\nEcología\nConservación\nBiogeografía\nHerpetología\nCiencia de datos"
+  },
+  {
+    "objectID": "about.html#habilidades",
+    "href": "about.html#habilidades",
+    "title": "Perfil",
+    "section": "Habilidades",
+    "text": "Habilidades\n\nR\nQuarto\nGit y GitHub\nQGIS\nMicrosoft Office"
+  },
+  {
+    "objectID": "about.html#formación-académica",
+    "href": "about.html#formación-académica",
+    "title": "Perfil",
+    "section": "Formación académica",
+    "text": "Formación académica\nUniversidad Nacional (UNA)\nBachillerato en Biología\nAño de ingreso – Presente"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portafolio académico",
+    "section": "",
+    "text": "En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nCada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional."
+  },
+  {
+    "objectID": "portfolio.html#prácticas-de-laboratorio",
+    "href": "portfolio.html#prácticas-de-laboratorio",
+    "title": "Portafolio académico",
+    "section": "Prácticas de laboratorio",
+    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nDisponible próximamente.\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\n\n\n📊 Próximas prácticas\nLas siguientes prácticas y proyectos se incorporarán conforme avance el curso."
+  },
+  {
+    "objectID": "portfolio.html#objetivo-del-portafolio",
+    "href": "portfolio.html#objetivo-del-portafolio",
+    "title": "Portafolio académico",
+    "section": "Objetivo del portafolio",
+    "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
+  }
+]

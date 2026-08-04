@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Portafolio Científico"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Perfil
+      - href: portfolio.qmd
+        text: Portafolio
+
+  page-footer:
+    center: |
+      <div class="footer-curso">
+        <span class="footer-titulo">Ecología de Poblaciones y Comunidades</span>
+        <span class="footer-institucion">Escuela de Ciencias Biológicas · Universidad Nacional</span>
+      </div>
+    right: |
+      Desarrollado con Quarto · GitHub Pages
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    lang: es
+    include-in-header:
+      text: |
+        <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+

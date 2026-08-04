@@ -25,7 +25,7 @@ Incluya aquí los principales resultados obtenidos.
 
 ## Figuras y tablas
 
-Agregue las figuras, tablas o capturas de pantalla necesarias para documentar el trabajo.
+![Figura 1. Imagen del sitio web personalizado](images/evidencia1.jpg)
 
 ## Reflexión final
 

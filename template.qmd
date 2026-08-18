@@ -1,0 +1,19 @@
+---
+title: "template"
+author: "Hector Zumbado"
+editor: visual
+---
+
+## Introducción
+
+## Objetivo
+
+## Metodología
+
+## Resultados
+
+## Interpretación
+
+## Conclusiones
+
+## Referencias

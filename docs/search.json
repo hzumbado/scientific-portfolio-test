@@ -145,5 +145,82 @@
     "title": "Portafolio académico",
     "section": "Objetivo del portafolio",
     "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
+  },
+  {
+    "objectID": "zotero.html",
+    "href": "zotero.html",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "",
+    "text": "(Jancowski y Orchard 2013)\n\n\n\n\nReferencias\n\nJancowski, Kevin, y Stan Orchard. 2013. «Stomach contents from invasive American bullfrogs Rana catesbeiana (= Lithobates catesbeianus) on southern Vancouver Island, British Columbia, Canada». NeoBiota 16 (marzo): 17-37. https://doi.org/10.3897/neobiota.16.3806."
+  },
+  {
+    "objectID": "zotero.html#objetivo",
+    "href": "zotero.html#objetivo",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "zotero.html#metodología",
+    "href": "zotero.html#metodología",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "zotero.html#resultados",
+    "href": "zotero.html#resultados",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Resultados",
+    "text": "Resultados\n\n\n\nFigura 1. Screenshot de la biblioteca creada en esta práctica\n\n\namphibian conservation (Pabijan et al. 2020)\n\n\n\n\n\n\nCuadro 1. Métodos utilizados para incorporar referencias bibliográficas a Zotero.\n\n\n\n\n\n\n\n\n\n\nMétodo\n¿Cuándo utilizarlo?\n\n\n\n\nDOI\nCuando la publicación tiene un DOI conocido\n\n\nArchivo .RIS\nCuando la revista o base de datos permite exportar la referencia\n\n\nZotero Connector\nPara capturar referencias directamente desde el navegador\n\n\nEntrada Manual\nCuando la información no puede importarse automáticamente"
+  },
+  {
+    "objectID": "zotero.html#conclusiones",
+    "href": "zotero.html#conclusiones",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Conclusiones",
+    "text": "Conclusiones"
+  },
+  {
+    "objectID": "template.html#objetivo",
+    "href": "template.html#objetivo",
+    "title": "template",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "template.html#metodología",
+    "href": "template.html#metodología",
+    "title": "template",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "template.html#resultados",
+    "href": "template.html#resultados",
+    "title": "template",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "template.html#interpretación",
+    "href": "template.html#interpretación",
+    "title": "template",
+    "section": "Interpretación",
+    "text": "Interpretación"
+  },
+  {
+    "objectID": "template.html#conclusiones",
+    "href": "template.html#conclusiones",
+    "title": "template",
+    "section": "Conclusiones",
+    "text": "Conclusiones"
+  },
+  {
+    "objectID": "template.html#referencias",
+    "href": "template.html#referencias",
+    "title": "template",
+    "section": "Referencias",
+    "text": "Referencias"
   }
 ]

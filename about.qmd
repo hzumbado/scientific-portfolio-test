@@ -3,25 +3,20 @@ title: "Perfil"
 page-layout: full
 ---
 
-::: {.perfil-superior}
-
-::: {.perfil-foto}
-
+:::::: perfil-superior
+::: perfil-foto
 ![](images/profile.jpg){fig-alt="Fotografía de perfil"}
-
 :::
 
-::: {.perfil-info}
-
+:::: perfil-info
 # Héctor Zumbado
 
-## Profesor 
+## Profesor
 
-Escuela de Ciencias Biológicas  
+Escuela de Ciencias Biológicas\
 Universidad Nacional, Costa Rica
 
-::: {.enlaces-perfil}
-
+::: enlaces-perfil
 [<i class="bi bi-envelope-fill"></i> Correo](mailto:hector.zumbado.ulate@una.cr)
 
 [<i class="bi bi-github"></i> GitHub](https://github.com/hzumbado)
@@ -29,20 +24,17 @@ Universidad Nacional, Costa Rica
 [<i class="bi bi-person-badge-fill"></i> ORCID](https://orcid.org/0000-0001-7039-9967)
 
 [<i class="bi bi-linkedin"></i> LinkedIn](https://linkedin.com/in/usuario)
-
 :::
+::::
+::::::
 
-:::
-
-:::
-
----
+------------------------------------------------------------------------
 
 ## Biografía
 
 Escriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales.
 
----
+------------------------------------------------------------------------
 
 ## Áreas de interés
 
@@ -52,7 +44,7 @@ Escriba un breve párrafo (100–150 palabras) donde describa quién es, su form
 - Herpetología
 - Ciencia de datos
 
----
+------------------------------------------------------------------------
 
 ## Habilidades
 
@@ -62,7 +54,7 @@ Escriba un breve párrafo (100–150 palabras) donde describa quién es, su form
 - QGIS
 - Microsoft Office
 
----
+------------------------------------------------------------------------
 
 ## Formación académica
 

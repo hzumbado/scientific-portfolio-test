@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portafolio académico",
-    "section": "",
-    "text": "En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nCada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional."
-  },
-  {
-    "objectID": "portfolio.html#prácticas-de-laboratorio",
-    "href": "portfolio.html#prácticas-de-laboratorio",
-    "title": "Portafolio académico",
-    "section": "Prácticas de laboratorio",
-    "text": "Prácticas de laboratorio\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →\n\n\n📚 Manejo de datos con Tidyverse\nEn esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en RStudio.\nVer práctica →\n\n\n📚 Descarga de ocurrencias con GBIF y iNaturalist\nEn esta práctica se descargará y limpiara un dataset de ocurrencias mediante los paquetes rgbif y rinat.\nVer práctica →"
-  },
-  {
-    "objectID": "portfolio.html#objetivo-del-portafolio",
-    "href": "portfolio.html#objetivo-del-portafolio",
-    "title": "Portafolio académico",
-    "section": "Objetivo del portafolio",
-    "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
-  },
-  {
     "objectID": "zotero.html#objetivo",
     "href": "zotero.html#objetivo",
     "title": "Gestión de referencias bibliográficas con Zotero",
@@ -105,6 +84,55 @@
     "text": "Reflexión final\nResponda brevemente:\n\n¿Qué aprendí?\n¿Qué dificultad encontré?\n¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?"
   },
   {
+    "objectID": "occs.html",
+    "href": "occs.html",
+    "title": "Descarga de ocurrencias con RStudio desde iNaturalist y GBIF",
+    "section": "",
+    "text": "En esta práctica se utilizaron los paquetes rgbif y rinat para descargar ocurrencias de la especie de anuro Craugastor fitzingeri en Costa Rica. Para el ordenamiento de datos se utilizó el paquete Tidyverse y para la limpieza de datos espaciales se utilizó principalmente el paquete CoordinateCleaner. El mapeo de ocurrencias se realizó con los paquetes sf y tmap. El objetivo de esta práctica fue aprender el proceso de descarga de ocurrencias desde una API y su posterior limpieza para crear juegos de datos robustos que puedan utilizarse en análisis espacial. Posterior a la limpieza se construyó un juego de datos preliminar de 1800 ocurrencias, de las cuáles 400 pertenecían a GBIF y 1400 a iNaturalist (Figura 1). En este ejercicio aprendí las bases de la importación de datos desde iNaturalist y GBIF; sin embargo, existe alta heterogeneidad en los datos descargados y el proceso de limpieza es complejo. Una ventaja es que los códigos utilizados funcionan con cualquier clado y en cualquier región del mundo.\n\n\n\nFigura 1. Mapa de Costa Rica mostrando las ocurrencias de la especie Craugastor fitzingeri por fuente, a partir de los datos descargados desde las API de GBIF y de iNaturalist en el curso Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
+  },
+  {
+    "objectID": "about.html#profesor",
+    "href": "about.html#profesor",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
+  },
+  {
+    "objectID": "about.html#biografía",
+    "href": "about.html#biografía",
+    "title": "Perfil",
+    "section": "Biografía",
+    "text": "Biografía\nEscriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales."
+  },
+  {
+    "objectID": "about.html#áreas-de-interés",
+    "href": "about.html#áreas-de-interés",
+    "title": "Perfil",
+    "section": "Áreas de interés",
+    "text": "Áreas de interés\n\nEcología\nConservación\nBiogeografía\nHerpetología\nCiencia de datos"
+  },
+  {
+    "objectID": "about.html#habilidades",
+    "href": "about.html#habilidades",
+    "title": "Perfil",
+    "section": "Habilidades",
+    "text": "Habilidades\n\nR\nQuarto\nGit y GitHub\nQGIS\nMicrosoft Office"
+  },
+  {
+    "objectID": "about.html#formación-académica",
+    "href": "about.html#formación-académica",
+    "title": "Perfil",
+    "section": "Formación académica",
+    "text": "Formación académica\nUniversidad Nacional (UNA)\nBachillerato en Biología\nAño de ingreso – Presente"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Inicio",
@@ -140,46 +168,25 @@
     "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 28 de Octubre 2026"
   },
   {
-    "objectID": "occs.html",
-    "href": "occs.html",
-    "title": "Descarga de ocurrencias con RStudio desde iNaturalist y GBIF",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portafolio académico",
     "section": "",
-    "text": "En esta práctica se utilizaron los paquetes rgbif y rinat para descargar ocurrencias de la especie de anuro Craugastor fitzingeri en Costa Rica. Para el ordenamiento de datos se utilizó el paquete Tidyverse y para la limpieza de datos espaciales se utilizó principalmente el paquete CoordinateCleaner. El mapeo de ocurrencias se realizó con los paquetes sf y tmap. El objetivo de esta práctica fue aprender el proceso de descarga de ocurrencias desde una API y su posterior limpieza para crear juegos de datos robustos que puedan utilizarse en análisis espacial. Posterior a la limpieza se construyó un juego de datos preliminar de 1800 ocurrencias, de las cuáles 400 pertenecían a GBIF y 1400 a iNaturalist (Figura 1). En este ejercicio aprendí las bases de la importación de datos desde iNaturalist y GBIF; sin embargo, existe alta heterogeneidad en los datos descargados y el proceso de limpieza es complejo. Una ventaja es que los códigos utilizados funcionan con cualquier clado y en cualquier región del mundo.\n\n\n\nFigura 1. Mapa de Costa Rica mostrando las ocurrencias de la especie Craugastor fitzingeri por fuente, a partir de los datos descargados desde las API de GBIF y de iNaturalist en el curso Ecología de Poblaciones y Comunidades, 2026."
+    "text": "En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nCada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional."
   },
   {
-    "objectID": "occs.html#introducción",
-    "href": "occs.html#introducción",
-    "title": "template",
-    "section": "",
-    "text": "En esta práctica vamos……"
+    "objectID": "portfolio.html#prácticas-de-laboratorio",
+    "href": "portfolio.html#prácticas-de-laboratorio",
+    "title": "Portafolio académico",
+    "section": "Prácticas de laboratorio",
+    "text": "Prácticas de laboratorio\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →\n\n\n📚 Manejo de datos con Tidyverse\nEn esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en RStudio.\nVer práctica →\n\n\n📚 Descarga de ocurrencias con GBIF y iNaturalist\nEn esta práctica se descargará y limpiara un dataset de ocurrencias mediante los paquetes rgbif y rinat.\nVer práctica →"
   },
   {
-    "objectID": "occs.html#objetivo",
-    "href": "occs.html#objetivo",
-    "title": "template",
-    "section": "Objetivo",
-    "text": "Objetivo\nEn esta práctica vamos……"
-  },
-  {
-    "objectID": "occs.html#metodología",
-    "href": "occs.html#metodología",
-    "title": "template",
-    "section": "Metodología",
-    "text": "Metodología\nEn esta práctica vamos……"
-  },
-  {
-    "objectID": "occs.html#resultados",
-    "href": "occs.html#resultados",
-    "title": "template",
-    "section": "Resultados",
-    "text": "Resultados\nEn esta práctica vamos……\n\n\n\nFigura 1"
-  },
-  {
-    "objectID": "occs.html#discusion",
-    "href": "occs.html#discusion",
-    "title": "template",
-    "section": "Discusion",
-    "text": "Discusion"
+    "objectID": "portfolio.html#objetivo-del-portafolio",
+    "href": "portfolio.html#objetivo-del-portafolio",
+    "title": "Portafolio académico",
+    "section": "Objetivo del portafolio",
+    "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
   },
   {
     "objectID": "template.html#objetivo",

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-172ba59bd5e0b52282274ba0c0cc16fc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -123,8 +126,9 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#prácticas-de-laboratorio" id="toc-prácticas-de-laboratorio" class="nav-link active" data-scroll-target="#prácticas-de-laboratorio">Prácticas de laboratorio</a>
   <ul class="collapse">
-  <li><a href="#práctica-de-ejemplo" id="toc-práctica-de-ejemplo" class="nav-link" data-scroll-target="#práctica-de-ejemplo">📄 Práctica de ejemplo</a></li>
   <li><a href="#gestión-de-referencias-bibliográficas-con-zotero" id="toc-gestión-de-referencias-bibliográficas-con-zotero" class="nav-link" data-scroll-target="#gestión-de-referencias-bibliográficas-con-zotero">📚 Gestión de referencias bibliográficas con Zotero</a></li>
+  <li><a href="#manejo-de-datos-con-tidyverse" id="toc-manejo-de-datos-con-tidyverse" class="nav-link" data-scroll-target="#manejo-de-datos-con-tidyverse">📚 Manejo de datos con Tidyverse</a></li>
+  <li><a href="#descarga-de-ocurrencias-con-gbif-y-inaturalist" id="toc-descarga-de-ocurrencias-con-gbif-y-inaturalist" class="nav-link" data-scroll-target="#descarga-de-ocurrencias-con-gbif-y-inaturalist">📚 Descarga de ocurrencias con GBIF y iNaturalist</a></li>
   </ul></li>
   <li><a href="#objetivo-del-portafolio" id="toc-objetivo-del-portafolio" class="nav-link" data-scroll-target="#objetivo-del-portafolio">Objetivo del portafolio</a></li>
   </ul>
@@ -157,15 +161,20 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <section id="prácticas-de-laboratorio" class="level2">
 <h2 class="anchored" data-anchor-id="prácticas-de-laboratorio">Prácticas de laboratorio</h2>
-<section id="práctica-de-ejemplo" class="level3 portfolio-item">
-<h3 class="anchored" data-anchor-id="práctica-de-ejemplo">📄 Práctica de ejemplo</h3>
-<p>Introducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.</p>
-<p><a href="./práctica-ejemplo.html">Ver práctica →</a></p>
-</section>
 <section id="gestión-de-referencias-bibliográficas-con-zotero" class="level3 portfolio-item">
 <h3 class="anchored" data-anchor-id="gestión-de-referencias-bibliográficas-con-zotero">📚 Gestión de referencias bibliográficas con Zotero</h3>
 <p>En esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.</p>
 <p><a href="./zotero.html">Ver práctica →</a></p>
+</section>
+<section id="manejo-de-datos-con-tidyverse" class="level3 portfolio-item">
+<h3 class="anchored" data-anchor-id="manejo-de-datos-con-tidyverse">📚 Manejo de datos con Tidyverse</h3>
+<p>En esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en RStudio.</p>
+<p><a href="./tidy.html">Ver práctica →</a></p>
+</section>
+<section id="descarga-de-ocurrencias-con-gbif-y-inaturalist" class="level3 portfolio-item">
+<h3 class="anchored" data-anchor-id="descarga-de-ocurrencias-con-gbif-y-inaturalist">📚 Descarga de ocurrencias con GBIF y iNaturalist</h3>
+<p>En esta práctica se descargará y limpiara un dataset de ocurrencias mediante los paquetes rgbif y rinat.</p>
+<p><a href="./occs.html">Ver práctica →</a></p>
 </section>
 <hr>
 </section>

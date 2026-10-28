@@ -13,19 +13,27 @@ Cada práctica constituye una evidencia del aprendizaje adquirido durante el sem
 ## Prácticas de laboratorio
 
 ::: portfolio-item
-### 📄 Práctica de ejemplo
-
-Introducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.
-
-[Ver práctica →](práctica-ejemplo.qmd)
-:::
-
-::: portfolio-item
 ### 📚 Gestión de referencias bibliográficas con Zotero
 
 En esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.
 
 [Ver práctica →](zotero.qmd)
+:::
+
+::: portfolio-item
+### 📚 Manejo de datos con Tidyverse
+
+En esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en RStudio.
+
+[Ver práctica →](tidy.qmd)
+:::
+
+::: portfolio-item
+### 📚 Descarga de ocurrencias con GBIF y iNaturalist
+
+En esta práctica se descargará y limpiara un dataset de ocurrencias mediante los paquetes rgbif y rinat.
+
+[Ver práctica →](occs.qmd)
 :::
 
 ------------------------------------------------------------------------
